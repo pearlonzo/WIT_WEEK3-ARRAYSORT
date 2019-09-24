@@ -1,0 +1,22 @@
+{
+  "name": "wit_week3-arraysort",
+  "version": "1.0.0",
+  "description": "Arraysort",
+  "main": "Arraysort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearlonzo/WIT_WEEK3-ARRAYSORT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearlonzo/WIT_WEEK3-ARRAYSORT/issues"
+  },
+  "homepage": "https://github.com/pearlonzo/WIT_WEEK3-ARRAYSORT#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
